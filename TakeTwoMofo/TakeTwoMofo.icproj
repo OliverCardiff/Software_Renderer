@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="TakeTwoMofo"
+	ProjectGUID="{FFA1FF83-481D-4F91-B7BF-02F0122AF07E}"
+	VCNestedProjectGUID="{4F6AA3AF-925D-4E5D-B50A-BE3A8D44C791}"
+	VCNestedProjectFileName="TakeTwoMofo.vcproj">
+	<Configurations/>
+	<Files/>
+</VisualStudioProject>
